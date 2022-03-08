@@ -1,2 +1,42 @@
 ﻿  Source.cpp
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(12,13): warning C4215: nonstandard extension used: long float
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(15,13): warning C4215: nonstandard extension used: long float
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(17,13): warning C4215: nonstandard extension used: long float
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(18,13): warning C4215: nonstandard extension used: long float
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(16,24): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(19,19): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(22,35): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(25,35): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(28,37): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(365,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  functions.cpp
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(12,13): warning C4215: nonstandard extension used: long float
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(15,13): warning C4215: nonstandard extension used: long float
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(17,13): warning C4215: nonstandard extension used: long float
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(18,13): warning C4215: nonstandard extension used: long float
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(16,24): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(19,19): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(22,35): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(25,35): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(28,37): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.h(365,18): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(55,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(106,8): warning C4215: nonstandard extension used: long float
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(108,8): warning C4215: nonstandard extension used: long float
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(110,8): warning C4215: nonstandard extension used: long float
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(113,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(156,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(184,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(190,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(209,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(256,11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(267,11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(278,11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(289,11): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(312,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(322,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(331,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(360,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tjsch\source\repos\ElectronicsMath\ElectronicsMath\functions.cpp(370,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
   ElectronicsMath.vcxproj -> C:\Users\tjsch\source\repos\ElectronicsMath\x64\Debug\ElectronicsMath.exe
